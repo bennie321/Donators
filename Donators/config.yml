@@ -1,0 +1,31 @@
+#Use EntityType names! Find them here: http://tinyurl.com/EntityTypeNames
+#To give player access to certain mobs give them the permission: donators.spawner.EntityTypeName
+#Mob spawner mobs:
+mobspawner:
+  - BAT
+  - CHICKEN
+  - COW
+  - MUSHROOM_COW
+  - OCELOT
+  - PIG
+  - SHEEP
+  - SQUID
+  - ENDERMAN
+  - WOLF
+  - PIG_ZOMBIE
+  - BLAZE
+  - CAVE_SPIDER
+  - CREEPER
+  - GHAST
+  - MAGMA_CUBE
+  - SILVERFISH
+  - SKELETON
+  - SLIME
+  - SPIDER
+  - WITCH
+  - ZOMBIE
+  - IRON_GOLEM
+  - SNOWMAN
+
+#Silktouch enchant level that's needed to mine a mobspawner
+Mining-SilkTouch-Level: 1

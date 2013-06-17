@@ -1,0 +1,35 @@
+name: Donators
+version: 1.0
+main: me.dutch_kids.donators.Donators
+description: Give players who donated access to new commands!
+commands:
+  dsmite:
+    description: Strike lightning at the point you are looking at!
+    usage: /<command>
+    permission: donators.lightning
+    permission-message: You have to donate to get access to this command!
+  dfireball:
+    description: Fires a fireball to the point you are looking at!
+    usage: /<command>
+    permission: donators.fireball
+    permission-message: You have to donate to get access to this command!
+  dfix:
+    description: Fix the damaged item in your hand.
+    usage: /<command>
+    permission: donators.fix
+    permission-message: You have to donate to get access to this command!
+  dheal:
+    description: Heal yourself.
+    usage: /<command>
+    permission: donators.heal
+    permission-message: You have to donate to get access to this command!
+  dspawner:
+    description: Change a selected mobspawner.
+    usage: /<command> mobtype
+    permission: donators.spawner
+    permission-message: You have to donate to get access to this command!
+  dtnt:
+    description: Place living tnt at the place you are looking at!
+    usage: /<command>
+    permission: donators.tnt
+    permission-message: You have to donate to get access to this command!
